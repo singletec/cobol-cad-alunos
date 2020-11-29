@@ -387,7 +387,7 @@
            
        2201-MONTA-CABECALHO.
            DISPLAY CABECALHO.
-           DISPLAY '-------- RELATORIO DE CLIENTES --------'
+           DISPLAY '-------- RELATORIO DE ALUNOS --------'
            AT LINE 10 COLUMN 10.
            
            DISPLAY CABECALHO-MATRICULA AT LINE 11 COLUMN 10.

@@ -64,6 +64,7 @@
            02 LINE 1 COLUMN 10 VALUE 'Cadastro de Alunos'
            BACKGROUND-COLOR 2.
        01 TELA-OPCOES.
+           02 LINE 09 COLUMN 10 VALUE '*** MENU PRINCIPAL ***' .
            02 LINE 10 COLUMN 10 VALUE '1 - Cadastrar novo aluno'.
            02 LINE 11 COLUMN 10 VALUE '2 - Consultar aluno'.
            02 LINE 12 COLUMN 10 VALUE '3 - Alterar aluno'.
